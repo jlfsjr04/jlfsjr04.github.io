@@ -1,0 +1,46 @@
+﻿<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Pagina web de Jr</title>
+</head>
+<body bgcolor="black">
+	<h1 style="color:white">Cornelio Vega JR</h1>
+    <div sty<!DOCTYPE html>
+        <h2 style="color:white">imagen de Cornelio</h2> <hr>
+        <img src="corne.jpg" alt="" style="border:4px solid black" width="320px">
+    </div> 
+    <div style="width: 350px; border: 1px solid blue;
+    float:left; padding: 30px; background-color: black">
+    <h2 style="color:white">Videos de cornelio</h2><hr>
+    <a href="https://www.youtube.com/watch?v=nCZEd8V_Mbc">Sin Raspar Muebles</a><br>
+    <a href="https://www.youtube.com/watch?v=A7unNM5trME">Fue Un Error Amarte</a><br>
+    
+    </div>
+    <div style="widthS: 350px; border: 2px solid black;
+    float:left; padding: 30px;border-radius: 30px;">
+    <table border="1">
+        <tr>
+            <td style="color:white">Nombre</td>
+             <td style="color:white">Apellido</td>
+              <td style="color:white">Edad</td>
+          </tr>
+          <tr>
+            <td style="color:white">Jesus Cornelio</td>
+            <td style="color:white">Vega Luna</td>
+            <td style="color:white">20 años</td>
+        </tr>
+        <tr>
+        </TABLE>
+
+
+    </div>
+    <dir style="width:300px; border:20px solid black; float: left;
+    margin-left: 1px; padding: 40px">
+    <h2 style="color:white">Cornelio Vega Jr</h2><hr>
+    <p style="color:white"> Jesús Cornelio Vega Luna (09 de abril de 1999) Nació en Sonora, México. Acordeonista, cantante y compositor de música regional mexicana, miembro de la agrupación “Cornelio vega y Su Dinastía”. Hijo del Cornelio Vega Cumea y Alma Luna, tiene tres hermanos: Ramón, Santiago y Valentín. Cornelio Vega creció en el entorno musical, su padre es un cante de música norteña, al igual que su tío Sergio Vega, el cual falleció en 2010. Al crecer aprendió a interpretar acordeón, batería, bajo, guitarra y otros, instrumentos, también empezó a escribir sus propias letras. 
+    La carrera de Cornelio, empieza en 2014, año en el que junto a su padre crean “Cornelio Vega y su Dinastía” está la conforman Cornelio Vega, Cornelio Vega Jr., Valentín Vega, Abraham “El Grillo” y Guillermo “El Piolín”, la agrupación interpreta música regional mexicana, al comienzo se presentaban con el repertorio de Cornelio Vega (Padre). Cornelio Vega Jr., sobresale en la agrupación como segunda voz cantando corridos clásicos, cumbias y otros, a finales de 2014, escribe “Adicto a Ti”, esta fue aprobada por su padre y posteriormente grabada por la agrupación, la canción cuenta con videoclip grabado en Obregón, fue estrenado el 9 de mayo de 2015. Al estrenarse fue un total éxito en las redes, convirtiéndose en tendencia, en ese momento se da el nombre de “Adictas” a las fans de la agrupación. Desde entonces, Cornelio Vega Jr., paso a ser la primera voz de la agrupación, también, fue el protagonista de los temas “Me gusta”, “La mujer perfecta”, entre otras.</p>
+
+ </dir>
+    </div>
+</body>
+</html>

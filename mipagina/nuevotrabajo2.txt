@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<title>Hipervinculos</title>
+	<style>
+	.menu{border: 1px solid black; text-aling: center; }
+	.contenido {border: 1px solid blue; margin-top: 20px; }
+	.pied_pagina {border: 1px solid red; text-align: center; margin-top: 20px; }
+</style>
+<div class="Menu">
+		<span><a href="nuevotrabajo.html"> Menu 1</a></span>
+		<span><a href="pagina2.html"> Menu 2</a></span>
+		<span><a href="pagina3.html"> Menu 3</a></span>
+		</div>
+		<div class="contenido">
+			<p>pagina principal este contenido se muestra cuando se encarga la pagina por primera vez</p>
+		</div>
+		<div class="pie_pagina">
+			2019 &copy;
+</head>
+<body>
+	
+</body>
+</html>
